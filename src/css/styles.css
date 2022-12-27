@@ -101,6 +101,7 @@ body{
     font-weight: 400;
     font-size: 1.8rem;
     margin: 25px 0;
+    text-align: justify;
 }
 
 .about .item a{
@@ -109,7 +110,6 @@ body{
 }
 .about .item a:hover{
     font-weight: 600;
-    align-self: flex-start;
 }
 .about .image{
     width: 100%;
@@ -159,6 +159,7 @@ body{
     font-weight: 400;
     margin: 20px auto 0;
     line-height: 25px;
+    text-align: justify;
 }
 
 .services .service:nth-child(1){
