@@ -102,9 +102,14 @@ body{
     font-size: 1.8rem;
     margin: 25px 0;
     text-align: justify;
+    font-weight: 400;
 }
-
+.about .item .btn{
+    height: 100%;
+    width: 100%;
+}
 .about .item a{
+    font-weight: 400;
     align-self: flex-start;
     height: 100%;
 }
