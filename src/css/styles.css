@@ -13,6 +13,7 @@ body{
     grid-template-columns: repeat(4/ 1fr);
     font-size: 1.6rem;
     font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 
 .header{
@@ -98,15 +99,14 @@ body{
 }
 
 .about .item p{
-    font-weight: 400;
     font-size: 1.8rem;
     margin: 25px 0;
     text-align: justify;
 }
 
 .about .item a{
-    font-weight: 400;
     align-self: flex-start;
+    height: 100%;
 }
 .about .item a:hover{
     font-weight: 600;
